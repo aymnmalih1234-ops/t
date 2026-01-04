@@ -9,7 +9,7 @@ import random
 import json
 
 # ========= التوكنات =========
-TOKEN = "7979327146:AAHzIUWYmy-fp2uJHbqZRyk5yiH8yQmc4Xk"
+TOKEN = OKEN = "8587570928:AAH91rHjGR11vCyp5LXSjx3G15n_ZAbKk4o"
 GROQ_API_KEY = "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"
 REMOVEBG_API_KEY = "u2CvqkZJkjEzD8GAjFXTfqbh"
 
